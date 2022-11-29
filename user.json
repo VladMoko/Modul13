@@ -1,0 +1,24 @@
+{
+  "id": 11,
+  "name": "David Onel",
+  "username": "David_New_@",
+  "email": "google@gmail.com",
+  "address": {
+    "street": "Mitchael",
+    "suite": "Apr. 222",
+    "city": "Boston",
+    "zipcode": "12345-6789"
+  },
+  "geo": {
+    "lat": "-38.2764848",
+    "Ing": "32.1341451"
+  }
+}{
+  "phone": "554-2131-312",
+  "website": "google.com",
+  "company": {
+    "name": "Google",
+    "catchPhrase": "Example",
+    "bs": "e-enable extensible e-trailers"
+  }
+}
